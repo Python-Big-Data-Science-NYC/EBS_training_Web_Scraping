@@ -1,0 +1,27 @@
+    1  ls
+    2  cd library/
+    3  ls
+    4  cd ..
+    5  ls
+    6  cd library/
+    7  git add .
+    8  git remote add origin https://github.com/Python-Big-Data-Science-NYC/EBS_training_Web_Scraping.git
+    9  git init
+   10  git add .
+   11  git commit -m "First commit"
+   12  git config user.name "Shivgan Joshi - Affordable Big Data Science Blockchain Python Bootcamp Nyc"
+   13  git config user.email "shivgan3@gmail.com"
+   14  git commit -m "First commit"
+   15  git push origin master
+   16  git push
+   17  git remote add origin https://github.com/Python-Big-Data-Science-NYC/EBS_training_Web_Scraping.git
+   18  git push origin master
+   19  git push origin master --force
+   20  ls
+   21  ls *.txt
+   22  rm *.txt
+   23  git add .
+   24  git commit -m "Deleting txt  commit"
+   25* git push origi
+   26  git push origin master
+   27  history > history_for_print.txt
